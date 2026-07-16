@@ -1,4 +1,4 @@
-//public class MusicalShow {
+
     public class MusicalShow extends Show {
         private String musicAuthor;
         private String librettoText;
